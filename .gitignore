@@ -1,0 +1,6 @@
+*~
+.ipynb_checkpoints/
+data/*
+!data/README.md
+intermediate/*
+!intermediate/README.md
